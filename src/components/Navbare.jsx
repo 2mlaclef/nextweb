@@ -12,7 +12,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 // Liste des pages et leurs liens href correspondants
 const pages = [
-  { name: "Accueil", href: "/accueil#accueil" }, // Redirige vers la section Accueil
+  { name: "Accueil", href: "/" }, // Redirige vers la section Accueil
   { name: "Projets", href: "/projet#projet" }, // Redirige vers la section Projets
   { name: "Contact", href: "/contact#contact" }, // Redirige vers la section Contact
 ];
